@@ -4,5 +4,5 @@ var animation = bodymovin.loadAnimation({
  renderer: 'html',
  loop: true,
  autoplay: true,
- path:'data.json'
+ path:'http://m4ch1n4.xyz/test/data.json'
 })
