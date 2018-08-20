@@ -3,6 +3,5 @@ var animation = bodymovin.loadAnimation({
  renderer: 'svg',
  loop: true,
  autoplay: true,
- path:'test/data.json'
-
+ path:'data.json'
 })
