@@ -1,8 +1,8 @@
 // JavaScript Document
 var animation = bodymovin.loadAnimation({
  container: document.getElementById('bm'),
- renderer: 'html',
+ renderer: 'svg',
  loop: true,
  autoplay: true,
- path:'http://m4ch1n4.xyz/test/data.json'
+ path:'data.json'
 })
